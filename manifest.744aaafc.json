@@ -1,0 +1,263 @@
+{
+  "name": "CNT APP",
+  "short_name": "CNT APP",
+  "description": "¡CNT APP llega para nuestros clientes CNT! Revisa tus planes, facturas, pasa saldo o megas y realiza recargas desde cualquier parte del Ecuador.",
+  "icons": [
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_16.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_20.png",
+      "sizes": "20x20",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_29.png",
+      "sizes": "29x29",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_40.png",
+      "sizes": "40x40",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_50.png",
+      "sizes": "50x50",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_57.png",
+      "sizes": "57x57",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_58.png",
+      "sizes": "58x58",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_60.png",
+      "sizes": "60x60",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_64.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_76.png",
+      "sizes": "76x76",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_80.png",
+      "sizes": "80x80",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_87.png",
+      "sizes": "87x87",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_100.png",
+      "sizes": "100x100",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_114.png",
+      "sizes": "114x114",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_120.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_152.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_167.png",
+      "sizes": "167x167",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_180.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/maskable/512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#01a0e4",
+  "lang": "es",
+  "dir": "auto",
+  "crossorigin": "use-credentials",
+  "orientation": "portrait-primary",
+  "categories": [
+    "business",
+    "utilities"
+  ],
+  "iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7",
+  "prefer_related_applications": false,
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "url": "https://apps.apple.com/ec/app/cntplay/id1502758583",
+      "id": "1502758583"
+    },
+    {
+      "platform": "itunes",
+      "url": "https://apps.apple.com/ec/app/junt-s/id1039895342",
+      "id": "1039895342"
+    },
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.artech.appinfoemp.informativo",
+      "id": ""
+    }
+  ],
+  "scope": "/",
+  "edge_side_panel": {
+    "preferred_width": 970
+  },
+  "screenshots": [
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/Screenshot_CNT_APP1.jpg",
+      "sizes": "375x670",
+      "type": "jpg"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/Screenshot_CNT_APP2.jpg",
+      "sizes": "375x670",
+      "type": "jpg"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/Screenshot_CNT_APP3.jpg",
+      "sizes": "375x670",
+      "type": "jpg"
+    },
+    {
+      "src": "https://leonel92.github.io/cnt-pwa-assets/Screenshot_CNT_APP4.jpg",
+      "sizes": "375x670",
+      "type": "jpg"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "CNT APP",
+      "url": "/",
+      "description": "¡CNT APP llega para nuestros clientes CNT! Revisa tus planes, facturas, pasa saldo o megas y realiza recargas desde cualquier parte del Ecuador.",
+      "icons": [
+        {
+          "src": "https://leonel92.github.io/cnt-pwa-assets/ios_96.png",
+          "sizes": "96x96",
+          "type": "image/png",
+          "purpose": "any"
+        }
+      ]
+    }
+  ],
+  "handle_links": "focus-existing",
+  "id": "0",
+  "scope_extensions": [
+    {
+      "origin": "app.cnt.gob.ec"
+    }
+  ],
+  "launch_handler": {
+    "client_mode": "auto"
+  }
+}
