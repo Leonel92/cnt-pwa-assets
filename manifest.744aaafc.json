@@ -4,7 +4,7 @@
   "description": "¡CNT APP llega para nuestros clientes CNT! Revisa tus planes, facturas, pasa saldo o megas y realiza recargas desde cualquier parte del Ecuador.",
   "icons": [
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assetshttps://leonel92.github.io/cnt-pwa-assets/icons/ios_16.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_16.png",
       "sizes": "16x16",
       "type": "image/png",
       "purpose": "any"
