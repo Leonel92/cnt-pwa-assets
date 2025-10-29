@@ -4,175 +4,175 @@
   "description": "¡CNT APP llega para nuestros clientes CNT! Revisa tus planes, facturas, pasa saldo o megas y realiza recargas desde cualquier parte del Ecuador.",
   "icons": [
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_16.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assetshttps://leonel92.github.io/cnt-pwa-assets/icons/ios_16.png",
       "sizes": "16x16",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_20.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_20.png",
       "sizes": "20x20",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_29.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_29.png",
       "sizes": "29x29",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_32.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_32.png",
       "sizes": "32x32",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_40.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_40.png",
       "sizes": "40x40",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_48.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_48.png",
       "sizes": "48x48",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_50.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_50.png",
       "sizes": "50x50",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_57.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_57.png",
       "sizes": "57x57",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_58.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_58.png",
       "sizes": "58x58",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_60.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_60.png",
       "sizes": "60x60",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_64.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_64.png",
       "sizes": "64x64",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_72.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_72.png",
       "sizes": "72x72",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_76.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_76.png",
       "sizes": "76x76",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_80.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_80.png",
       "sizes": "80x80",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_87.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_87.png",
       "sizes": "87x87",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_96.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_96.png",
       "sizes": "96x96",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_100.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_100.png",
       "sizes": "100x100",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_114.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_114.png",
       "sizes": "114x114",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_120.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_120.png",
       "sizes": "120x120",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_128.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_128.png",
       "sizes": "128x128",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_144.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_144.png",
       "sizes": "144x144",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_152.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_152.png",
       "sizes": "152x152",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_167.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_167.png",
       "sizes": "167x167",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_180.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_180.png",
       "sizes": "180x180",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_192.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_256.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_256.png",
       "sizes": "256x256",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/maskable/512.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/maskable/512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_512.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "https://leonel92.github.io/cnt-pwa-assets/ios_1024.png",
+      "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_1024.png",
       "sizes": "1024x1024",
       "type": "image/png",
       "purpose": "any"
@@ -242,7 +242,7 @@
       "description": "¡CNT APP llega para nuestros clientes CNT! Revisa tus planes, facturas, pasa saldo o megas y realiza recargas desde cualquier parte del Ecuador.",
       "icons": [
         {
-          "src": "https://leonel92.github.io/cnt-pwa-assets/ios_96.png",
+          "src": "https://leonel92.github.io/cnt-pwa-assets/icons/ios_96.png",
           "sizes": "96x96",
           "type": "image/png",
           "purpose": "any"
